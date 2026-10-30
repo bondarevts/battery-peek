@@ -2,6 +2,8 @@
 
 A tiny macOS app that shows your battery level in a corner of the screen, floating above all other windows — including full-screen apps.
 
+![Battery Peek in the bottom-right corner, showing 60% while charging](docs/screenshot.png)
+
 ## Features
 
 - Small pill with a battery icon and percentage, always on top, on every Space and over full-screen apps
